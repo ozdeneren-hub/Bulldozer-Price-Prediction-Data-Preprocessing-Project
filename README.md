@@ -29,18 +29,3 @@ Source: Kaggle - Blue Book for Bulldozers
 
 Content: Historical auction data of used bulldozers and their sale prices
 
-📁 How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/bulldozer-preprocessing.git
-Open the notebook with Jupyter:
-
-bash
-Copy
-Edit
-jupyter notebook ML_BulldozerPricecopy.ipynb
-
-
